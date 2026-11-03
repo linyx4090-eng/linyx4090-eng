@@ -7,7 +7,7 @@
   <br>
   
   <a href="https://linyx4090-eng.github.io/portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Посмотреть_мой_сайт-c21b1b?style=for-the-badge&logoColor=white" alt="Website">
+    <img src="https://img.shields.io/badge/🌐_VIEW_MY_PORTFOLIO-c21b1b?style=for-the-badge&logoColor=white" alt="Website">
   </a>
   <a href="https://t.me/g8draofficial" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
