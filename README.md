@@ -1,9 +1,5 @@
 <div align="center">
-  
-  <img src="https://github.com/user-attachments/assets/85e9c64b-7c87-4511-9c6d-530a6a620ff2" alt="Portfolio Preview" width="100%" style="border-radius: 12px;" />
-  
-  <br><br>
-  
+
   # Hey, I'm Alian a Python developer 👋
   
   **I'm a 14-year-old Python developer and web enthusiast. I build useful Telegram bots for business and automate processes.**
