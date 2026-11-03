@@ -1,17 +1,35 @@
-# Hi, I’m Alian 👋
+<div align="center">
+  
+  <img src="https://github.com/user-attachments/assets/85e9c64b-7c87-4511-9c6d-530a6a620ff2" alt="Portfolio Preview" width="100%" style="border-radius: 12px;" />
+  
+  <br><br>
+  
+  # Hey, I'm Alian a Python developer 👋
+  
+  **I'm a 14-year-old Python developer and web enthusiast. I build useful Telegram bots for business and automate processes.**
+  
+  <br>
+  
+  <a href="https://linyx4090-eng.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Посмотреть_мой_сайт-c21b1b?style=for-the-badge&logoColor=white" alt="Website">
+  </a>
+  <a href="https://t.me/g8draofficial" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
 
-I’m 14 years old and actively developing my skills in IT. I code in Python, build websites, and create solutions for business automation.
+  <br><br>
 
-### 🚀 What I do:
-- Develop **Telegram bots** for business automation and lead generation.
-- Implement **NFC systems** to boost the ratings of establishments on digital maps.
-- Study web development and cybersecurity.
+  ### 💻 My Tech Stack:
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-### 💻 My Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+</div>
 
-### 📬 Get in touch:
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/g8draofficial)
+---
+
+### 🚀 Чем я занимаюсь:
+- Разрабатываю **Telegram-ботов** для автоматизации бизнеса и поиска клиентов.
+- Внедряю **NFC-системы** для повышения рейтинга заведений на картах.
+- Изучаю веб-разработку и кибербезопасность.
