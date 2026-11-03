@@ -25,7 +25,7 @@
 
 ---
 
-### 🚀 Чем я занимаюсь:
-- Разрабатываю **Telegram-ботов** для автоматизации бизнеса и поиска клиентов.
-- Внедряю **NFC-системы** для повышения рейтинга заведений на картах.
-- Изучаю веб-разработку и кибербезопасность.
+### 🚀 What I do:
+- Develop Telegram bots for business automation and client acquisition.
+- Implement NFC systems to boost the ratings of establishments on maps.
+- Study web development and cybersecurity.
